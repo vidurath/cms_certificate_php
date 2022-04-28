@@ -1,6 +1,6 @@
 # cms_certificate_php
 
-Using PHP, Bootstrap 4, PDO
+Using PHP, Bootstrap, jquery, PDO
 
 # Resources
 template: https://adminlte.io/themes/v3/
