@@ -1,0 +1,43 @@
+brighton
+chelsea
+newcastle
+kawasaki - J1 league Japan
+olympiakos
+everton
+kashima - J1 league Japan
+
+-----------------
+newcastle
+brighton
+molde
+-----------------
+kawasaki frontale* - - J1 league Japan
+Haninge - division 1, Superettan, Sweden
+Varnamo - division 1, Superettan, Sweden
+Njardvik - league 2, delid karla, iceland
+lokomotive leipzig - regionalliga, germany
+kosice - 2. liga , slovak
+
+--------------
+#chelsea over 2.5
+#everton over 2.5
+
+
+--------------
+#newcastle under 2.5
+stoke under 2.5
+burnley under 2.5
+fulham
+@Arsenal
+
+--------------
+al alhy - egyptian pl
+everton
+wolfsburg 2 - regionalliga, regionalliga nord
+Altglienicke - regionalliga nordost, germany
+olympiakos - uefa CL
+bari - coppa italia
+kawasaki - J1 League ,japan
+krylia sovetov samara - Russian FNL
+kosice - 2. liga , slovak
+los angeles - MLS
